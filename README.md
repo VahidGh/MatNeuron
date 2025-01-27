@@ -41,7 +41,7 @@ MatNeuron is a comprehensive web-based Cybernetics simulation environment that b
 
 ## nrn.js/nmodl.js
 
-[nrn.js](https://github.com/vahidgh/nrnjs) is a project aimed at providing a [NEURON simulator](http://neuron.yale.edu/neuron/) implemented in JavaScript. This project leverages the capabilities of JavaScript to create a flexible and interactive environment for simulating neuronal models defined using the NEURON Model Description Language ([NMODL](https://www.neuron.yale.edu/neuron/static/docs/help/neuron/nmodl/nmodl.html)). The JavaScript-based implementation of NMODL [nmodl.js](https://github.com/vahidgh/nmodljs) allows for the conversion of `.mod` files into JavaScript, facilitating the execution of neuronal simulations directly within the browser.
+[nrn.js](https://github.com/vahidgh/nrnjs) is a project aimed at providing a [NEURON simulator](http://neuron.yale.edu/neuron/) implemented in JavaScript. This project leverages the capabilities of JavaScript to create a flexible and interactive environment for simulating neuronal models defined using [HOC](https://nrn.readthedocs.io/en/latest/guide/hoc_chapter_11_old_reference.html), the original programming language supported by NEURON and the NEURON Model Description Language ([NMODL](https://www.neuron.yale.edu/neuron/static/docs/help/neuron/nmodl/nmodl.html)). The JavaScript-based implementation of NMODL [nmodl.js](https://github.com/vahidgh/nmodljs) allows for the conversion of `.mod` and `.h` files and syntaxes into JavaScript, facilitating the execution of neuronal simulations directly within the browser.
 
 With nrn.js, developers can utilize modern web technologies to run simulations directly in the browser, enabling real-time visualization and manipulation of neuronal models.
 
