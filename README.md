@@ -7,7 +7,7 @@ MatNeuron is a comprehensive web-based Cybernetics simulation environment that b
 ### 1. Neural Network and BioMechanical Simulator
 - Interactive visualization of neural architectures
 - Real-time parameter adjustment
-- NMODL.js integration for NEURON simulation
+- nrn.js/NMODL.js integration for NEURON simulation
 - MatOct.js integration Biomechanical system coupling
 - Real-time conversion between MATLAB/Octave, Neuron, Python and JavaScript
 
@@ -39,11 +39,11 @@ MatNeuron is a comprehensive web-based Cybernetics simulation environment that b
 - **API**: GraphQL for flexible data querying
 
 
-## Nmodl.js
+## nrn.js/nmodl.js
 
-[nmodl.js](https://github.com/vahidgh/nmodljs) is a project aimed at providing a [NEURON simulator](http://neuron.yale.edu/neuron/) implemented in JavaScript. This project leverages the capabilities of JavaScript to create a flexible and interactive environment for simulating neuronal models defined using the NEURON Model Description Language ([NMODL](https://www.neuron.yale.edu/neuron/static/docs/help/neuron/nmodl/nmodl.html)). 
+[nrn.js](https://github.com/vahidgh/nrnjs) is a project aimed at providing a [NEURON simulator](http://neuron.yale.edu/neuron/) implemented in JavaScript. This project leverages the capabilities of JavaScript to create a flexible and interactive environment for simulating neuronal models defined using the NEURON Model Description Language ([NMODL](https://www.neuron.yale.edu/neuron/static/docs/help/neuron/nmodl/nmodl.html)). The JavaScript-based implementation of NMODL [nmodl.js](https://github.com/vahidgh/nmodljs) allows for the conversion of `.mod` files into JavaScript, facilitating the execution of neuronal simulations directly within the browser.
 
-With nmodl.js, developers can utilize modern web technologies to run simulations directly in the browser, enabling real-time visualization and manipulation of neuronal models.
+With nrn.js, developers can utilize modern web technologies to run simulations directly in the browser, enabling real-time visualization and manipulation of neuronal models.
 
 ### ANTLR4 Grammar for NMODL
 
