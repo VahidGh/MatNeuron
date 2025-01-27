@@ -37,3 +37,4 @@
    - Model saving functionality
    - Download options for offline use
 
+![scenario1-diagram](public/scenario1-diagram.svg)
