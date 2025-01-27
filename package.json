@@ -1,0 +1,22 @@
+{
+  "name": "MatNeuron",
+  "version": "1.0.0",
+  "main": "mvp/index.js",
+  "scripts": {
+    "start": "cd mvp && npm run dev",
+    "build": "cd mvp && npm run build",
+    "preview": "cd mvp && npm run preview",
+    "test": "cd mvp && npm test"
+  },
+  "dependencies": {
+    "@types/d3": "^7.4.3",
+    "@types/three": "^0.172.0",
+    "d3": "^7.9.0",
+    "three": "^0.172.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  },
+  "workspaces": [
+    "mvp"
+  ]
+}

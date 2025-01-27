@@ -1,0 +1,32 @@
+{
+  "name": "matneuron-mvp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "vitest"
+  },
+  "keywords": [
+    "neuroscience",
+    "simulation",
+    "computational-biology"
+  ],
+  "author": "MatNeuron Team",
+  "license": "ISC",
+  "description": "Computational Neurobiology MVP Implementation",
+  "workspaces": [
+    ".."
+  ],
+  "dependencies": {
+    "@types/react": "^19.0.7",
+    "@types/react-dom": "^19.0.3",
+    "@types/react-router-dom": "^5.3.3",
+    "@vitejs/plugin-react": "^4.3.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.1.3",
+    "vite": "^6.0.7"
+  }
+}

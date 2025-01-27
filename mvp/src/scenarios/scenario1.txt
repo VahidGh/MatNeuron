@@ -1,0 +1,27 @@
+graph TD
+    A[User Input] --> B{Input Type}
+    B -->|Code Writing| C[NMODL/MATLAB Code]
+    B -->|File Upload| D[Existing Files]
+    B -->|Description| E[MatNeuronAI Processing]
+    
+    E --> F[Local/Online Model Search]
+    F --> G[Generate Files]
+    
+    C --> H[JavaScript Conversion]
+    D --> H
+    G --> H
+    
+    H --> I[MatBook Display]
+    I --> J[Simulation Canvas]
+    
+    J --> K[MathWiki Integration]
+    J --> L[2D/3D Visualization]
+    
+    L --> M{Edit Options}
+    M -->|Manual| N[Direct Edit]
+    M -->|AI Assisted| O[AI Suggestions]
+    
+    N --> P[Re-run Simulation]
+    O --> P
+    
+    P --> Q[Save/Download]
