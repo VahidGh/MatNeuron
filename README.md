@@ -73,6 +73,8 @@ MatOct.js combines the approaches taken by MatJsLab with a JavaScript-based and 
 
 The main concepts of Mathematical problems, their roots and applications are described using invaluable resources like [The Encyklopadie der Mathematischen Wissenschaften mit Einschluss ihrer Anwendungen](https://en.wikipedia.org/wiki/Klein%27s_Encyclopedia_of_Mathematical_Sciences) by [F. Klein](https://en.wikipedia.org/wiki/Felix_Klein).
 
+**An in-progress project at [Encyclopedia of Mathematical Sciences Including Their Applications](https://github.com/VahidGh/Encyclopedia-of-Mathematical-Sciences-Including-Their-Applications) aims to translate this valuable work to English after more than 100 years.**
+
 ### BioMedWiki.js
 [BioMedWiki.js](https://github.com/vahidgh/biomedwikijs) is a project aimed at providing a comprehensive encyclopedia of biomedical engineering concepts and applications implemented in JavaScript. This project provides a flexible and interactive environment for biomedical engineering, computations and data analysis.
 
@@ -80,7 +82,7 @@ The main concepts of biomedical engineering applications are provided using inva
 
 ## MatNeuron.ai
 
-MatNeuronAI is an LLM integrated with the MatNeuron.js simulator. It is designed to assist in the creation, simulation, and analysis of neuronal and biomechanical models.
+[MatNeuronAI](https://github.com/VahidGh/MatNeuronAI) is an LLM integrated with the MatNeuron.js simulator. It is designed to assist in the creation, simulation, and analysis of neuronal and biomechanical models.
 
 ### LLM Integration
 - Natural language model description processing
