@@ -73,7 +73,7 @@ MatOct.js combines the approaches taken by MatJsLab with a JavaScript-based and 
 
 The main concepts of Mathematical problems, their roots and applications are described using invaluable resources like [The Encyklopadie der Mathematischen Wissenschaften mit Einschluss ihrer Anwendungen](https://en.wikipedia.org/wiki/Klein%27s_Encyclopedia_of_Mathematical_Sciences) by [F. Klein](https://en.wikipedia.org/wiki/Felix_Klein).
 
-**An in-progress project at [Encyclopedia of Mathematical Sciences Including Their Applications](https://github.com/VahidGh/Encyclopedia-of-Mathematical-Sciences-Including-Their-Applications) aims to translate this valuable work to English after more than 100 years.**
+**I am currently working on translating this valuable work to English at [Encyclopedia of Mathematical Sciences Including Their Applications](https://github.com/VahidGh/Encyclopedia-of-Mathematical-Sciences-Including-Their-Applications), making it accessible in English after more than 100 years.**
 
 ### BioMedWiki.js
 [BioMedWiki.js](https://github.com/vahidgh/biomedwikijs) is a project aimed at providing a comprehensive encyclopedia of biomedical engineering concepts and applications implemented in JavaScript. This project provides a flexible and interactive environment for biomedical engineering, computations and data analysis.
